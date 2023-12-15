@@ -27,3 +27,6 @@ AWS_SECRET_ACCESS_KEY=
 AWS_REGION = us-east-1
 AWS_ECR_LOGIN_URI = 106206485900.dkr.ecr.us-east-1.amazonaws.com
 ECR_REPOSITORY_NAME = studentperf
+
+
+#### Ensure the Security Groups' inbound rules are properly updated with proper portnumbers
